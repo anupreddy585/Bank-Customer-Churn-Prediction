@@ -21,7 +21,7 @@ This project predicts customer churn in a telecom dataset using various machine 
 ## How to Run
 1. Clone the repository:
 \`\`\`bash
-git clone https://github.com/yourusername/customer-churn-prediction-ml.git
+git clone https://github.com/anupreddy585/customer-churn-prediction-ml.git
 \`\`\`
 2. Install dependencies:
 \`\`\`bash
